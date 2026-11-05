@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MedHOT 日报</title>
+    <link>http://localhost:3000/daily</link>
+    <description>MedHOT 每天 08:00（北京时间）发布的精编日报，保留最近 30 期。</description>
+    <language>zh-CN</language>
+    <atom:link href="http://localhost:3000/feed/daily.xml" rel="self" type="application/rss+xml" />
+    <ttl>30</ttl>
+    <generator>MedHOT (http://localhost:3000/agent)</generator>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-11-04 — 北京医保局发文执行第十二批国家集采中选结果，11月28日起全面落地]]></title>
+      <link>http://localhost:3000/daily/2026-11-04</link>
+      <description><![CDATA[<p>北京市医保局通知执行第十二批国家组织药品集采中选结果，2026年11月21日0时招采子系统统一调整中选药品采购价格，11月28日0时起全面执行中选结果及医保支付标准，采购周期至2029年12月31日。通知明确因抗菌药物使用限制等导致临床需求重大变化的，考核以使用比例代替使用数量；医疗机构反映中选药品供应问题并经核实公示后，采购其他中选企业药品可视作采购该中选药品并享受医保资金结余留用政策。</p>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/wq2nqezlgrnos0d5m3m6et8w1">辉瑞将舒普深国内推广交给第三方CSO，康新博划入核心医院急症BU</a></li><li><a href="http://localhost:3000/items/n7btsxsgvx3s4rwf3nzku3hhd">十余家医院密集召开廉洁会，带金销售模式面临收紧</a></li><li><a href="http://localhost:3000/items/wbm2snhs4cop4oc1zaytxx14n">熙源安健两项偏头痛临床前项目授权艾伯维，潜在总额最高7.57亿美元</a></li></ul>
+<p><strong>政策与监管</strong></p>
+<ul><li><a href="http://localhost:3000/items/i02u4hpugvk7m0bazm8ocvs8v">北京医保局发文执行第十二批国家集采中选结果，11月28日起全面落地</a></li><li><a href="http://localhost:3000/items/emr76r0kqmzedhg1d2fq4nfo4">江苏医保局部署第十二批国家集采中选结果落地，11月30日起全省执行</a></li><li><a href="http://localhost:3000/items/jzjgbk1bi97f2zsnlm16v7aix">河北公布10个原研药与1类新药挂网，须锚定全国最低价否则按失信处理</a></li><li><a href="http://localhost:3000/items/al1ui9exasqe5g5xocpkgl5om">广东联盟药品集采公示第十批新增中选产品，公示至11月4日</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-11-04">http://localhost:3000/daily/2026-11-04</a></p>]]></description>
+      <pubDate>Thu, 05 Nov 2026 05:13:33 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-04</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-11-03 — 第12批国家集采落地：5省明确执行时间，16省发文安排挂网与支付]]></title>
+      <link>http://localhost:3000/daily/2026-11-03</link>
+      <description><![CDATA[<p>截至11月1日，第12批国家集采已有江西、青海、辽宁、海南、河南5省明确执行时间，最早为江西11月16日零时起执行，另有湖南、浙江、四川、广东等11省公布落地安排。</p>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/k1eif37jd2voi25bib80hh174">2026H1公立医疗机构终端83个国谈药销售额超3亿元，合计近640亿元</a></li><li><a href="http://localhost:3000/items/pnjlx18ya54hc0k99vie6h8b7">哈药集团2026年三季报营收123.52亿元、净利润6亿元同比增82.66%</a></li></ul>
+<p><strong>政策与监管</strong></p>
+<ul><li><a href="http://localhost:3000/items/set8oz08lf9shu80sn0qvw6k1">第12批国家集采落地：5省明确执行时间，16省发文安排挂网与支付</a></li><li><a href="http://localhost:3000/items/dzqr8y6fdp4mzdssmzmlowxwe">福建医保药品单列门诊统筹支付管理办法施行，明确目录准入与调出规则</a></li><li><a href="http://localhost:3000/items/wdk21hh936uoy0a7hf88kg2zt">第12批国采江苏11月30日执行，16省已发文</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-11-03">http://localhost:3000/daily/2026-11-03</a></p>]]></description>
+      <pubDate>Tue, 03 Nov 2026 15:24:57 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-03</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-11-01 — 今日安静，无大事发生]]></title>
+      <link>http://localhost:3000/daily/2026-11-01</link>
+      <description><![CDATA[<p>北京时间 10 月 31 日 08:00 至 11 月 1 日 08:00，没有新的医药大事。</p>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-11-01">http://localhost:3000/daily/2026-11-01</a></p>]]></description>
+      <pubDate>Mon, 02 Nov 2026 09:52:03 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-01</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-10-31 — 广东省药品交易中心就广东联盟阿替洛尔等药品带量联动采购文件征求意见]]></title>
+      <link>http://localhost:3000/daily/2026-10-31</link>
+      <description><![CDATA[<p>广东省药品交易中心就《广东联盟阿替洛尔等药品带量联动采购文件（征求意见稿）》公开征求意见，反馈时间为2026年10月30日至11月5日17:00，需提交加盖单位鲜章的征求意见表扫描件及对应excel文档至yaopinbu@gdmede.com.cn，逾期不予受理。文件依据粤医保规〔2025〕4号起草，具体采购品种与规则见附件1。</p>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/pfgtuq778gtb73e28xtcos8xf">上海医药2026年前三季度营收2229.64亿元，扣非净利润增长25.02%</a></li><li><a href="http://localhost:3000/items/jmz88r1urpgnnp9pwu29er5lg">华东医药前三季营收超330亿元，6款新药报产在审、9款进入III期临床</a></li></ul>
+<p><strong>政策与监管</strong></p>
+<ul><li><a href="http://localhost:3000/items/fozm3jmfsj12wgfkgrp13sr3h">广东省药品交易中心就广东联盟阿替洛尔等药品带量联动采购文件征求意见</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-10-31">http://localhost:3000/daily/2026-10-31</a></p>]]></description>
+      <pubDate>Sat, 31 Oct 2026 02:14:40 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-31</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-10-30 — 全国急性呼吸道传染病哨点监测：第43周流感病毒阳性率14.7%，南方高于北方]]></title>
+      <link>http://localhost:3000/daily/2026-10-30</link>
+      <description><![CDATA[<p>2026年第43周（10月19日—10月25日），全国216家多病原监测哨点医院门急诊流感样病例呼吸道样本阳性率前三位为流感病毒（14.7%）、鼻病毒（11.7%）、副流感病毒（4.3%），住院严重急性呼吸道感染病例为鼻病毒（11.0%）、流感病毒（4.9%）、人偏肺病毒（4.4%）。</p>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/dktlqthkqbzlwwwji4eyb5u6u">翰森制药B7-H3 ADC瑞康立伏妥塔单抗小细胞肺癌与骨肉瘤III期数据公布，两项适应症已申报上市</a></li></ul>
+<p><strong>政策与监管</strong></p>
+<ul><li><a href="http://localhost:3000/items/j5c7vw39t5336c5kyg2ekhqa5">全国急性呼吸道传染病哨点监测：第43周流感病毒阳性率14.7%，南方高于北方</a></li><li><a href="http://localhost:3000/items/vno4axtk2e81576w7vujzke4b">江苏第九批药品价格预警公布41条记录，安宫牛黄丸、六味地黄胶囊、风油精被点名</a></li><li><a href="http://localhost:3000/items/rtcxnkifv1aqysm0xzlg7hdgz">基层服务能力2026版标准落地，基药优先与4—12周长处方写入B档</a></li></ul>
+<p><strong>论文研究</strong></p>
+<ul><li><a href="http://localhost:3000/items/nev77hncq8jrgndw2l8dqmxnk">中国流感监测周报第932期：第43周报告145起流感样病例暴发疫情</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-10-30">http://localhost:3000/daily/2026-10-30</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 11:06:52 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-30</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-10-29 — A股药企三季报利润榜前十出炉：药明康德193.98亿元居首，恒瑞、复星医药入列]]></title>
+      <link>http://localhost:3000/daily/2026-10-29</link>
+      <description><![CDATA[<p>同花顺问财数据显示，2026年前三季度归母净利润前十的A股医药企业依次为药明康德、恒瑞医药、新和成、复星医药、艾力斯、华润三九、九州通、国药股份、新产业和海思科，前十门槛13.76亿元。</p>
+<p><strong>获批与准入</strong></p>
+<ul><li><a href="http://localhost:3000/items/vuc4hka58mwy0jh9bwuzpcuai">NMPA 批准阿舒克森片、巴托利单抗注射液等多款创新药上市</a></li></ul>
+<p><strong>临床与研发</strong></p>
+<ul><li><a href="http://localhost:3000/items/v9ozxwjqxkag3r8unjbgdkjqc">三生制药SSGJ-707联合化疗一线治疗晚期NSCLC的II期数据在2026 ESMO公布，鳞癌与非鳞癌中位PFS分别为13.6个月和13.8个月</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/anektez7k0w9xlvgkd5gjp5lj">A股药企三季报利润榜前十出炉：药明康德193.98亿元居首，恒瑞、复星医药入列</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-10-29">http://localhost:3000/daily/2026-10-29</a></p>]]></description>
+      <pubDate>Thu, 29 Oct 2026 13:59:44 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-29</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+    <item>
+      <title><![CDATA[MedHOT 日报 · 2026-10-28 — 国家药监局批准拜耳阿舒克森片上市，用于降低缺血性卒中及高风险TIA患者卒中风险]]></title>
+      <link>http://localhost:3000/daily/2026-10-28</link>
+      <description><![CDATA[<p>国家药监局通过优先审评审批程序批准Bayer AG申报的1类创新药阿舒克森片（商品名舒华博）上市，用于降低缺血性卒中或高风险短暂性脑缺血发作（TIA）成人患者的卒中风险，不包括心源性栓塞型卒中患者。该药为患者提供了新的治疗选择。</p>
+<p><strong>获批与准入</strong></p>
+<ul><li><a href="http://localhost:3000/items/w93qhyfbqki9yidnocdw3ty4m">国家药监局批准拜耳阿舒克森片上市，用于降低缺血性卒中及高风险TIA患者卒中风险</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="http://localhost:3000/items/g1s3977ahzzeian4s8a0htld9">达仁堂与华润医药商业签约，金芪降糖片、癃清片交由华润全国总经销</a></li></ul>
+<p>via MedHOT · <a href="http://localhost:3000/daily/2026-10-28">http://localhost:3000/daily/2026-10-28</a></p>]]></description>
+      <pubDate>Wed, 28 Oct 2026 01:14:36 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-28</guid>
+      <author>noreply@localhost (MedHOT)</author>
+    </item>
+  </channel>
+</rss>
